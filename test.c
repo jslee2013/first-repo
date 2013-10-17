@@ -1,4 +1,10 @@
 int main(){
-printf("Hello World!");
+	printf("Hello World!");
+	int x = 0;
+	while(True):
+	{
+		x++;
+		printf(x);
+	}
 }
 
